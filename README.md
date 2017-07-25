@@ -1,5 +1,11 @@
-# IOVisor packet tracing and collection
-Guide and Source code for the IO Visor packet tracing and collection
+# IO Visor packet tracing and collection
+Guide and Source code for the IO Visor packet tracing and collection.
+
+The target HW is SmartX Type S/C/O.
+
+Recommended for Linux Kernel version 4.8.0.
+
+To upgrade the Linux Kernel version of HW, read Guide
 
 ## List of files
 
