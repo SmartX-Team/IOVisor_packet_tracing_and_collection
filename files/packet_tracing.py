@@ -125,7 +125,7 @@ while 1:
   #print information including ipVer/srcAddr/dstAddr:port/action
   print("%3s%20s%9s%20s%9s" % (str(int(ipversion, 2)), srcAddr, srcPort, dstAddr, dstPort))
   f = open("result.txt", "a")
-  f.write("%20s%3s%20s%20s%9s\n" % (datetime.now(),str(int(ipversion, 2)), srcAddr, dstAddr, dstPort))
+  f.write("%20s%3s%20s%9s%20s%9s\n" % (datetime.now(),str(int(ipversion, 2)), srcAddr, srcPort, dstAddr, dstPort))
   f.close
   
 """
