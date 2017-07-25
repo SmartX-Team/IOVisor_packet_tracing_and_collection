@@ -20,7 +20,9 @@ list.txt
 ## Name of each NIC in each machine
 
 Type S : eth0
+
 Type C : ens2f0
+
 Type O : eth0
 
 
