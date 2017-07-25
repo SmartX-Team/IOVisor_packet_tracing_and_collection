@@ -5,7 +5,7 @@ The target HW is SmartX Type S/C/O, and others.
 
 Recommended for Linux Kernel version 4.8.0.
 
-To upgrade the Linux Kernel version of HW and build IO Visor environment, read [Guide](https://github.com/SmartX-Team/IOVisor_packet_tracing_and_collection/blob/master/files/Guide%20for%20IO%20Visor%20Environment.pptx)
+To upgrade the Linux Kernel version of HW and build IO Visor environment, read [Guide](https://github.com/SmartX-Team/IOVisor_packet_tracing_and_collection/blob/master/Guide%20for%20IO%20Visor%20Environment.pdf)
 
 ## List of files
 
