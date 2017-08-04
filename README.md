@@ -25,7 +25,7 @@ To upgrade the Linux Kernel version of HW and build IO Visor environment, read [
 
 ## Requirements
 
-The following IO Visor packet tracing can be executed with the IO Visor BCC enabled environment.
+The following IO Visor packet tracing can be executed with the IO Visor BCC enabled Linux OS based environment.
 
 Construction of the IO Visor BCC environment is possible through IO Visor BCC Github page.
 
