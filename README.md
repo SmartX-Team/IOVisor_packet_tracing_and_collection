@@ -23,6 +23,16 @@ Recommended for Linux Kernel version 4.8.0.
 
 To upgrade the Linux Kernel version of HW and build IO Visor environment, read [Guide](https://github.com/SmartX-Team/IOVisor_packet_tracing_and_collection/blob/master/Guide%20for%20IO%20Visor%20Environment.pdf)
 
+## Requirements
+
+The following IO Visor packet tracing can be executed with the IO Visor BCC enabled environment.
+
+Construction of the IO Visor BCC environment is possible through IO Visor BCC Github page.
+
+https://github.com/iovisor/bcc
+
+This program is optimized for Linux Kernel 4.8.0 environment and Ubuntu 16.04 LTS version.
+
 ## List of files
 
 packet_tracing.c : Core program for IO Visor packet tracing
